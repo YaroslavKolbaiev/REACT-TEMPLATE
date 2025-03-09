@@ -1,4 +1,4 @@
-# Templates
+# React + TypeScript + Vite
 
 - [React + TypeScript + Vite](https://github.com/YaroslavKolbaiev/REACT-TEMPLATE)
 
