@@ -27,5 +27,6 @@ module.exports = {
     'react/jsx-max-props-per-line': [2, { maximum: 1, when: 'always' }],
     '@typescript-eslint/no-explicit-any': 'warn',
     'max-len': ['error', { code: 200, tabWidth: 2, ignoreUrls: true }],
+     'max-params': ['error', 3],
   },
 };
